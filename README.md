@@ -1,0 +1,1 @@
+A simple recipe website created using the Odin Project as a guide.
